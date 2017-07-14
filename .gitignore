@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # compiled output
-/dist
+/dist/bundles
+/dist/packages
 /tmp
 /deploy
 /screenshots
